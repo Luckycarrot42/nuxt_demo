@@ -102,14 +102,9 @@ export default {
           to: '/'
         },
         {
-          icon: 'mdi-chart-bubble',
-          title: 'Inspire',
-          to: '/inspire'
-        },
-        {
-          icon: 'mdi-eye',
-          title: 'Post',
-          to: '/post'
+          icon: 'mdi-palette',
+          title: 'Gallery',
+          to: '/gallery'
         }
       ],
       miniVariant: false,
